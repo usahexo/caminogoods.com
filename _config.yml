@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Camino Goods + Curated Vintage
+subtitle: 'Camino Goods offering a curated selection of home goods.'
+description: 'Globally inspired textiles and home goods created ethically with artisans in Mexico and Guatemala.'
 keywords:
-author: John Doe
+author: Hoffman
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://caminogoods.com
+permalink: :year/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: freemind
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
