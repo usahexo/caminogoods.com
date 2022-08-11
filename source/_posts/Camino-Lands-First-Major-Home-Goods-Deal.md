@@ -1,5 +1,5 @@
 ---
-title: Camino-Lands-First-Major-Home-Goods-Deal
+title: Camino Lands First Major Home Goods Deal
 date: 2022-08-09 16:17:52
 tags:
 - Home Goods
