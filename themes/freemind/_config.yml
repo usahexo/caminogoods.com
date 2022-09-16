@@ -40,7 +40,9 @@ rss:
 fancybox: true
 favicon: favicon.png
 duoshuo_shortname: #freemindtheme
-
+jalinks:
+- name: 카지노사이트
+  link: https://choegocasino.com/
 # Recommended posts
 # Dependency: https://github.com/huiwang/hexo-recommended-posts
 recommended_posts:
